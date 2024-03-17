@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(160, 159, 158);
+}
+.poster {
+    margin-top: 100px;
+    margin-left: 25%;
+    width: 50%;
+    font-family: "Source Serif 4", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.img {
+    border: 2px solid;
+    width: 100%;
+}
+.h1 {
+    text-align: center;
+}
+.p {
+    text-align: center;
+    font-size: larger;
+}
